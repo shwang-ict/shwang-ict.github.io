@@ -2572,7 +2572,7 @@ ul.breadcrumb li + li:last-child {
 }
 .content-inner {
   height: 135px;
-  background-image: url("/images/banner-ict.png");
+  background-image: url("/images/banner.png");
   background-size: cover;
 }
 .site-title {
