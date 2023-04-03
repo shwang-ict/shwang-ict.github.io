@@ -4,7 +4,25 @@
   <url>
     <loc>https://shwang-ict.github.io/title/</loc>
     
-    <lastmod>2023-03-29</lastmod>
+    <lastmod>2023-04-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shwang-ict.github.io/services/index.html</loc>
+    
+    <lastmod>2023-04-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shwang-ict.github.io/Research-Projects/index.html</loc>
+    
+    <lastmod>2023-04-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -23,15 +41,6 @@
     <loc>https://shwang-ict.github.io/publications/index.html</loc>
     
     <lastmod>2023-03-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://shwang-ict.github.io/services/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
